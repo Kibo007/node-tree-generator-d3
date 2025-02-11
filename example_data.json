@@ -1,0 +1,67 @@
+{
+    "id": "Root",
+    "children": [
+        {
+            "id": "Technology",
+            "children": [
+                {
+                    "id": "Frontend",
+                    "children": [
+                        { "id": "HTML" },
+                        { "id": "CSS" },
+                        { "id": "JavaScript" },
+                        { "id": "React" },
+                        { "id": "Vue" }
+                    ]
+                },
+                {
+                    "id": "Backend",
+                    "children": [
+                        { "id": "Node.js" },
+                        { "id": "Python" },
+                        { "id": "Java" },
+                        { "id": "Go" }
+                    ]
+                },
+                {
+                    "id": "Database",
+                    "children": [
+                        { "id": "SQL" },
+                        { "id": "MongoDB" },
+                        { "id": "Redis" }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Design",
+            "children": [
+                {
+                    "id": "UI",
+                    "children": [
+                        { "id": "Layout" },
+                        { "id": "Typography" },
+                        { "id": "Color Theory" }
+                    ]
+                },
+                {
+                    "id": "UX",
+                    "children": [
+                        { "id": "User Research" },
+                        { "id": "Wireframing" },
+                        { "id": "Prototyping" },
+                        { "id": "Testing" }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Management",
+            "children": [
+                { "id": "Agile" },
+                { "id": "Scrum" },
+                { "id": "Kanban" }
+            ]
+        }
+    ]
+} 
