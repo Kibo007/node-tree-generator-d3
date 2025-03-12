@@ -4,8 +4,8 @@
   "description": "Interactive D3.js node tree visualization generator",
   "main": "src/generateNodeTree.js",
   "scripts": {
-    "generate": "node src/generateNodeTree.js",
-    "example": "node src/generateNodeTree.js examples/example_data.json"
+    "generate": "node generateNodeTree.js",
+    "example": "node generateNodeTree.js example_data.json"
   },
   "keywords": [
     "d3",
